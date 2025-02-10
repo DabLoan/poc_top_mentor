@@ -1,0 +1,10 @@
+{
+  "@@locale": "fr",
+    "homeTitle": "Accueil",
+    "chatTitle": "Chat",
+    "exploreTitle": "Explorer",
+    "startMessage": "Démarrez une conversation !",
+    "noMessages": "Démarrez une conversation !",
+    "homeText": "Page d''accueil"
+  }
+  
